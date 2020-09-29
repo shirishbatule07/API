@@ -1,0 +1,17 @@
+D:\PROJECTS\MADA\ERP\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\bin\Debug\netstandard2.1\MADA.ERP.Common.Common.deps.json
+D:\PROJECTS\MADA\ERP\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\bin\Debug\netstandard2.1\MADA.ERP.Common.Common.dll
+D:\PROJECTS\MADA\ERP\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\bin\Debug\netstandard2.1\MADA.ERP.Common.Common.pdb
+D:\PROJECTS\MADA\ERP\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\obj\Debug\netstandard2.1\MADA.ERP.Common.Common.AssemblyInfoInputs.cache
+D:\PROJECTS\MADA\ERP\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\obj\Debug\netstandard2.1\MADA.ERP.Common.Common.AssemblyInfo.cs
+D:\PROJECTS\MADA\ERP\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\obj\Debug\netstandard2.1\MADA.ERP.Common.Common.dll
+D:\PROJECTS\MADA\ERP\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\obj\Debug\netstandard2.1\MADA.ERP.Common.Common.pdb
+D:\PROJECTS\MADA\ERP\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\obj\Debug\netstandard2.1\MADA.ERP.Common.Common.csprojAssemblyReference.cache
+D:\PROJECTS\SHIRISH\Vinay\API\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\bin\Debug\netstandard2.1\MADA.ERP.Common.Common.deps.json
+D:\PROJECTS\SHIRISH\Vinay\API\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\bin\Debug\netstandard2.1\MADA.ERP.Common.Common.dll
+D:\PROJECTS\SHIRISH\Vinay\API\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\bin\Debug\netstandard2.1\MADA.ERP.Common.Common.pdb
+D:\PROJECTS\SHIRISH\Vinay\API\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\obj\Debug\netstandard2.1\MADA.ERP.Common.Common.csprojAssemblyReference.cache
+D:\PROJECTS\SHIRISH\Vinay\API\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\obj\Debug\netstandard2.1\MADA.ERP.Common.Common.AssemblyInfoInputs.cache
+D:\PROJECTS\SHIRISH\Vinay\API\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\obj\Debug\netstandard2.1\MADA.ERP.Common.Common.AssemblyInfo.cs
+D:\PROJECTS\SHIRISH\Vinay\API\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\obj\Debug\netstandard2.1\MADA.ERP.Common.Common.csproj.CoreCompileInputs.cache
+D:\PROJECTS\SHIRISH\Vinay\API\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\obj\Debug\netstandard2.1\MADA.ERP.Common.Common.dll
+D:\PROJECTS\SHIRISH\Vinay\API\MADA.ERP.Common.API\MADA.ERP.Common.API\MADA.ERP.Common.Common\obj\Debug\netstandard2.1\MADA.ERP.Common.Common.pdb

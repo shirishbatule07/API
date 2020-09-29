@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "7IqIgoi+rOSaZkLIPRhf+hyD4GifHjfFK5tUQYmk7+hn6rbSS62nSS2CDra7sSP0tXCxkPqISmZLhYx2iHHHiA==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Domain\\Patheyam.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.0\\microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.1.0\\microsoft.extensions.fileproviders.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\2.1.0\\microsoft.extensions.fileproviders.physical.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\2.1.0\\microsoft.extensions.filesystemglobbing.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.hosting\\2.1.0\\microsoft.extensions.hosting.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.1.0\\microsoft.extensions.hosting.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging\\2.1.0\\microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.diagnostics.eventlog\\4.5.0\\system.diagnostics.eventlog.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.serviceprocess.servicecontroller\\4.5.0\\system.serviceprocess.servicecontroller.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

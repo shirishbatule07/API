@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Contract\\Patheyam.Contract.csproj": {}
+  },
+  "projects": {
+    "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Common\\Patheyam.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Common\\Patheyam.Common.csproj",
+        "projectName": "Patheyam.Common",
+        "projectPath": "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Common\\Patheyam.Common.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "System.ServiceProcess.ServiceController": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Contract\\Patheyam.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Contract\\Patheyam.Contract.csproj",
+        "projectName": "Patheyam.Contract",
+        "projectPath": "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Contract\\Patheyam.Contract.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Common\\Patheyam.Common.csproj": {
+                "projectPath": "D:\\PROJECTS\\SHIRISH\\Vinay\\API\\MADA.ERP.Common.API\\Patheyam.API\\Patheyam.Common\\Patheyam.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
